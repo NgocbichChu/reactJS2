@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.model{
+  position: absolute;
+}
+
+.glass{
+  position: relative;
+  top: 80%;
+    left: 105px;
+    width: 50%;
+}
+
+/* .des{
+  position: relative;
+  background-color: pink;
+  width: 100%;
+  top: 220%;
+  margin: 20px;
+} */
